@@ -3,7 +3,7 @@ import random,time,json
 # dev tools
 dev = {'tosses':True,'prison':True,'buys':True, 'rents':True}
 # slow play
-slow_play = True
+slow_play = False
 # count of bots
 bots = 4
 
